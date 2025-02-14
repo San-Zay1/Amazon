@@ -1,6 +1,6 @@
 # Amazon Advanced SQL Project
 Project Category: Advanced
- ![Image Alt](https://github.com/San-Zay1/Spotify/blob/5e45474e58f7ad02742615123d1b7a62aa8397fc/spotify_logo.jpg)
+ ![Image Alt](https://github.com/San-Zay1/Amazon/blob/main/Amazon.png?raw=true)
 
 ## Overview
 This project involves working with a Spotify dataset that contains information about songs, albums, and artists. The main tasks include organizing the dataset into a structured format, writing SQL queries (easy, medium, and advanced), and analyzing the data to find useful insights. The goal is to improve SQL skills and understand trends in the music industry.
